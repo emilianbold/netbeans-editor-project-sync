@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="New_Vector"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="navigate_back_16.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .st0 {
+        fill: #5b7b95;
+      }
+      .st1 {
+        opacity: .33;
+      }
+      .st2 {
+        fill: #ebf6fd;
+      }
+      .st3 {
+        fill: #f5c47a;
+      }
+      .outline {
+        fill: none;
+        stroke: #a48352;
+        stroke-width: 1;
+      }
+    </style>
+  </defs>
+  <g id="g5" transform="translate(-5.9925094,-2.3071161)">
+    <!-- Filled shape -->
+    <path
+       style="fill:#f5c47a;fill-opacity:1;stroke:none;stroke-miterlimit:0;paint-order:markers fill stroke"
+       d="m 5.992509,10.307116 4,-3.9999999 h 2 V 8.307116 h 4 V 6.3071161 h 2 l 4,3.9999999 -4,4 h -2 v -2 h -4 v 2 h -2 z"
+       id="path1" />
+    <!-- Inner stroke outline -->
+    <path
+       class="outline"
+       d="m 5.992509,10.307116 4,-3.9999999 h 2 V 8.307116 h 4 V 6.3071161 h 2 l 4,3.9999999 -4,4 h -2 v -2 h -4 v 2 h -2 z"
+       id="path1-outline" />
+  </g>
+</svg>

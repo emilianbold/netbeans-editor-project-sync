@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: io/github/s4gh/projecteditorsyncactions/Installer.class
+OpenIDE-Module-Localizing-Bundle: io/github/s4gh/projecteditorsyncactions/Bundle.properties
+
