@@ -6,7 +6,7 @@
     <version>1.0</version>
     <packaging>nbm</packaging>
     <name>Quick Navigate To Active Code Editor File</name>
-    <description>Netbeans IDE plugin wih actions to open actve code editor file in project and files views.</description>
+    <description>Netbeans IDE plugin wih actions to open active code editor file in project and files views.</description>
     <url>https://github.com/s4gh/netbeans-editor-project-sync</url>
     <scm>
         <connection>scm:git:https://github.com/s4gh/netbeans-editor-project-sync/</connection>

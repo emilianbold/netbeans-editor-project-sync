@@ -277,11 +277,12 @@ public final class Installer extends ModuleInstall {
         JButton selectBtn   = makeOverlayButton(syncWithCodeEditorIcon, "selectInTreeButton", selectInTreeAction, "Sync with Code Editor");
 
         JPanel header = new JPanel();
+        header.setBorder(javax.swing.BorderFactory.createEmptyBorder(0, 0, 0, 4));
         header.setOpaque(false);
         header.setLayout(new BoxLayout(header, BoxLayout.X_AXIS));
         header.add(Box.createHorizontalGlue());   // right-align
         header.add(collapseBtn);
-        header.add(Box.createHorizontalStrut(6));
+        header.add(Box.createHorizontalStrut(4));
         header.add(selectBtn);
 
         // Save previous header (if any) and install ours
@@ -369,7 +370,8 @@ public final class Installer extends ModuleInstall {
         b.setBorderPainted(true);
         b.setFocusPainted(true);
         b.setFocusable(true);
-        b.setBorder(javax.swing.BorderFactory.createEmptyBorder(4, 4, 4, 4));
+        b.setMargin(new java.awt.Insets(0, 0, 0, 0));
+        b.setBorder(javax.swing.BorderFactory.createEmptyBorder(4, 0, 4, 0));
         b.setToolTipText(toolTipText); // add tooltip text if desired
         b.addActionListener(e -> action.run());
         
