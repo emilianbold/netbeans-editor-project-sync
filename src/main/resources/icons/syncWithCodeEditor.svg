@@ -5,14 +5,50 @@
    height="16"
    version="1.1"
    viewBox="0 0 16 16"
-   sodipodi:docname="navigate_back_16.svg"
+   sodipodi:docname="1.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="47.199378"
+     inkscape:cx="5.0848128"
+     inkscape:cy="9.5128373"
+     inkscape:window-width="1280"
+     inkscape:window-height="778"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="New_Vector"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .st0 {
         fill: #5b7b95;
       }
@@ -32,16 +68,14 @@
       }
     </style>
   </defs>
-  <g id="g5" transform="translate(-5.9925094,-2.3071161)">
-    <!-- Filled shape -->
-    <path
-       style="fill:#f5c47a;fill-opacity:1;stroke:none;stroke-miterlimit:0;paint-order:markers fill stroke"
-       d="m 5.992509,10.307116 4,-3.9999999 h 2 V 8.307116 h 4 V 6.3071161 h 2 l 4,3.9999999 -4,4 h -2 v -2 h -4 v 2 h -2 z"
-       id="path1" />
-    <!-- Inner stroke outline -->
-    <path
-       class="outline"
-       d="m 5.992509,10.307116 4,-3.9999999 h 2 V 8.307116 h 4 V 6.3071161 h 2 l 4,3.9999999 -4,4 h -2 v -2 h -4 v 2 h -2 z"
-       id="path1-outline" />
-  </g>
+  <path
+     style="fill:#a48352;fill-opacity:1;stroke:none;stroke-miterlimit:0;paint-order:markers fill stroke"
+     d="m 5.992509,10.307116 4,-3.9999999 h 2 V 8.307116 h 4 V 6.3071161 h 2 l 4,3.9999999 -4,4 h -2 v -2 h -4 v 2 h -2 z"
+     id="path1"
+     transform="translate(-5.9925094,-2.3071161)" />
+  <path
+     style="fill:#f5c47a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     d="M 1,8 4.5,4.5 h 1 v 2 h 5 v -2 h 1 L 15,8 11.5,11.5 h -1 v -2 h -5 v 2 h -1 z"
+     id="path2"
+     sodipodi:nodetypes="ccccccccccccccc" />
 </svg>
