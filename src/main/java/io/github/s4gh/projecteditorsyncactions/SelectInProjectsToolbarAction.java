@@ -10,7 +10,6 @@ import org.openide.awt.ActionID;
 import org.openide.awt.ActionReference;
 import org.openide.awt.ActionRegistration;
 import org.openide.awt.Actions;
-import org.openide.util.ImageUtilities;
 import org.openide.util.NbBundle.Messages;
 import org.openide.util.actions.Presenter;   // ← Presenter lives here
 
@@ -74,7 +73,6 @@ public final class SelectInProjectsToolbarAction extends AbstractAction implemen
                 btn.setToolTipText((String) tip);
             }
             btn.addActionListener(this);
-            btn.setIcon(ImageUtilities.loadImageIcon("icons/class.svg", true));
         }
         return btn;
         }
